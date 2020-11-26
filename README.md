@@ -20,7 +20,7 @@ Wifi  (Swapped the original with compatable)
 Touchpad/Keyboard
 Ethernet
 Sleep
-Intel Wifi (Search on github for a alt kext for intel wifi cards)
+Intel Wifi (Search on github for a alt kext for intel wifi cards https://github.com/OpenIntelWireless/itlwm/releases)
 Brightness
 ```
 
@@ -32,4 +32,13 @@ Brightness
 *fix Sleep
 *Remove DSDT.aml
 lots more 
+```
+
+## Thanks to:
+```
+*Apple for their proprietery OS
+*OpenCore devs and OpenCore Guides
+*itlwm for the Wifi Intel driver port from Linux
+*me Stefan
+*others too :P
 ```
