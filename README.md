@@ -1,8 +1,8 @@
-# HP-250-G6-OpenCore-EFI
+# HP-250-G6-BigSur-OpenCore-EFI
 
 
 <p align="center">
- OpenCore 0.6.3 EFI folder for macOS Mojave Hackintosh (i3 6006u variant) 250 G6 HP Laptop
+ OpenCore 0.6.3 EFI folder for macOS BigSur Hackintosh (i3 6006u variant) 250 G6 HP Laptop
 <img src="https://i.imgur.com/vDsWHia.png" alt="look">
 </p>
 
