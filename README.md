@@ -1,4 +1,4 @@
-# HP-250-G6-Mojave-EFI
+# HP-250-G6-OpenCore-EFI
 
 
 <p align="center">
