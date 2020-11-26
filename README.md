@@ -21,10 +21,12 @@ Touchpad/Keyboard
 Ethernet
 Sleep
 Intel Wifi (Search on github for a alt kext for intel wifi cards)
+Brightness
 ```
 
 ## TO DO:
 ```
+*fix SMBIOS
 *REMOVE SMC Light Sensor
 *Remove other Kexts for touchpad/keyboard
 *fix Sleep
