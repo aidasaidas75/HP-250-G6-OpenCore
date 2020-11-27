@@ -33,6 +33,13 @@ Brightness
 *Remove DSDT.aml
 lots more 
 ```
+## v1:
+```
+*battery works
+*removed useless kext 
+*cleaned up plist
+
+```
 
 ## Thanks to:
 ```
