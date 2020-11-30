@@ -17,20 +17,11 @@ Wifi  (Swapped the original with macOS compatable DW1820(BCM4350) 802.11ac Wirel
 ```
 ## What doesn't work:
 ```
-Touchpad/Keyboard
-Ethernet
-Sleep
 Intel Wifi (Search on github for a alt kext for intel wifi cards https://github.com/OpenIntelWireless/itlwm/releases)
-Brightness
 ```
 
 ## TO DO:
 ```
-*fix SMBIOS
-*REMOVE SMC Light Sensor
-*Remove other Kexts for touchpad/keyboard
-*fix Sleep
-*Remove DSDT.aml
 lots more 
 ```
 ## v1:
@@ -38,6 +29,13 @@ lots more
 *battery works
 *removed useless kext 
 *cleaned up plist
+
+```
+
+## v2:
+```
+*not really sure almost everything works
+Fixed sleep smbios and stuff...
 
 ```
 
