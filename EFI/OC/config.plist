@@ -526,24 +526,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>LiluFriend.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/LiluFriend</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>RealtekRTL8111.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1042,17 +1024,17 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>+CgZaiaX</data>
+			<data>0C302165DB2D</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,1</string>
+			<string>MacBook10,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C17RNGYXGVC1</string>
+			<string>C02V60P1HH27</string>
 			<key>SystemUUID</key>
-			<string>7985F034-88B0-4AA4-BFE6-4C8E2C3C711C</string>
+			<string>17A44A81-2535-4C0E-BA60-56A7199BF0A8</string>
 		</dict>
 		<key>Serial</key>
 		<dict>
